@@ -27,7 +27,7 @@ const object2 = {
     city: 'Los Angeles'
 
 }; 
-
+ 
 
 const bothObjects = {...object2, ...object1};
 console.log(bothObjects);
